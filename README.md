@@ -1,6 +1,6 @@
 # 4.2-DOM-Finding-Excercise
 
-<!DOCTYPE html>
+`<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -24,7 +24,7 @@
     <div class="footer">
     </div>
 </body>
-</html>
+</html>`
 
 ## **Exercise**
 
